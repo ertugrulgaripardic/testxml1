@@ -1,0 +1,17 @@
+<cekettler>
+    <ceket>
+        <isim>Deri Ceket</isim>
+        <lot>KZ3456</lot>
+        <barcode>1234567890123</barcode>
+    </ceket>
+    <ceket>
+        <isim>Koton Ceket</isim>
+        <lot>XY7890</lot>
+        <barcode>2345678901234</barcode>
+    </ceket>
+    <ceket>
+        <isim>Kışlık Mont</isim>
+        <lot>AB1234</lot>
+        <barcode>3456789012345</barcode>
+    </ceket>
+</cekettler>
