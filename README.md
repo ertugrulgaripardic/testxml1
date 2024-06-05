@@ -1,1 +1,1 @@
-All product data added
+XML file read
